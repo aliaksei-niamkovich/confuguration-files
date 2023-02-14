@@ -1,11 +1,5 @@
 # Dotfiles
 
-## Content:
-
-- alacritty
-- fish
-- tmux
-
 ## [Alacritty](https://github.com/alacritty/alacritty)
 
 There is no any plugins or extensions, just extend default config file with provided in this repo.
