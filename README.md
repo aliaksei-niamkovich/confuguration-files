@@ -18,6 +18,7 @@ There is no any plugins or extensions, just extend default config file with prov
 - [Tide](https://github.com/IlanCosman/tide) - shell theme
 - [Nerd fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator
 - [z](https://github.com/jethrokuan/z) - Pure-fish z directory jumping
+- [fish-nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper for fish-shell
 
 ## Tmux
 
